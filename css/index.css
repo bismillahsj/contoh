@@ -1,0 +1,77 @@
+body {
+	background-image:url(../images/background.jpg);
+	background-attachment : fixed;
+	background-size: 100% 110%;
+	padding-top: 30px;
+	padding-top: 30px;
+}
+.top
+{
+  width: 60%;
+  min-width: 400px;
+  height: 40px;
+  background-color: #4682B4;
+  margin: auto;
+  border-radius: 5px 5px 0px 0px;
+  box-shadow: 0px 1px 4px #3d3d3d;
+  color: #f0f0f0;
+  text-align: center;
+  font-size: 26px;
+  font-family: Arial;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+.mid
+{
+	width: 60%;
+  min-width: 400px;
+  background-color: #ffffff;
+  margin: auto;
+  border-radius: 0px 0px 5px 5px;
+  box-shadow: 0px 1px 4px #3d3d3d;
+  text-align: right;
+}
+	.mid img /* img yang ada didalam .mid */
+	{
+		width: 90%;
+		height: 90%;
+		margin: 10px 0px;
+	}
+	.mid h1 /* h1 yang ada didalam .mid */
+	{
+		font-family: Tahoma;
+		font-size: 26px;
+		color: #4682B4;
+		margin-left: 56px;
+		text-align: left;
+		height: 50px;
+		line-height: 70px;
+	}
+	.mid p /* p yang ada didalam .mid */
+	{
+		margin-left: 56px;
+		width: 70%;
+		font-family: Segoe UI;
+		font-size: 12px;
+		color: #696969;
+		line-height: 20px;
+		font-weight: bold;
+		text-align: left;
+	}
+	.mid a /* a yang ada didalam .mid */
+	{
+		width: 60px;
+		background-color: #4682B4;
+		float: left;
+		padding: 10px 16px;
+		color: white;
+		text-decoration : none;
+		list-style: none;
+		font-family: Tahoma;
+		font-size : 12px;
+		text-align : center;
+		font-weight: bold;
+		line-height: 10px;
+		margin-left: 56px;
+	}

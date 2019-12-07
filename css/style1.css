@@ -1,0 +1,84 @@
+body {
+		background-color: #dbe9e5;
+	
+}
+.pesan{
+  background-color: #DCDCDC;
+  margin: 10px auto;
+  padding: 10px 0px;
+  border-radius: 10px;
+  box-shadow: 0px 1px 4px #3d3d3d;
+  text-align: center;
+  font-family: Tahoma;
+  font-size: 14px;
+}
+
+.bgcolor {
+	width: 35%;
+	margin: auto;
+	margin-top: 120px;
+	background-color: rgba(70, 130, 180, 0.09);
+	padding: 20px 60px;
+	padding-left: 50px;
+	box-shadow: 0px 1px 4px #3d3d3d;
+}
+
+.td{
+	padding-top: 40px;
+	padding-left: 20px;
+	line-height: 30px;
+	padding-right: 20px;
+
+}
+.tdisi{
+	padding-top: 40px;
+	padding-left: 60px;
+	line-height: 30px;
+	padding-right: 40px;
+	font-family: Arial;
+	font-size: 16px;
+	color: #696969;
+}
+
+.daftar {
+	margin-top: 10px;
+	position: relative;
+	text-align: center;
+}
+a {
+	margin-top: 0px;
+}
+
+
+.link a {
+	text-decoration: none;
+	color:rgba(0, 0, 0, 0.7) ;
+}
+
+.link a:hover {
+	text-decoration: none;
+	color: blue ;
+}
+.button1{
+
+	width: 100%;
+	border: none;
+	background-color: #4682B4;
+	padding: 8px 10px;
+	font-family: Arial;
+	font-size: 14px;
+	color: white;
+	font-weight: bold;
+}
+	input, textarea {
+		color: black; 
+		font-family: Arial; 
+		font-size : 16px; 
+		background: rgba(0, 0, 0, 0.0); 
+		border: none;
+}
+	
+.button{
+	background-color: #6495ED;
+	text-align: center;
+}

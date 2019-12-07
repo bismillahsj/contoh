@@ -20,6 +20,7 @@
 				<input class="submit" type="submit" name="login" value="Login">
 				<p class="reg">Don't have an account?<a class href="daftar.php"><b> Register </b></a></p>
 			</form>`
+			<img src="1.png">
 		</div>
 </body>
 </html>
